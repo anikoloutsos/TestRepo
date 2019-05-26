@@ -48,6 +48,14 @@ master commit2
 
 b2 c2
 
+branch3 commit1
+
 master commit 3
 
 master commit 4
+
+branch3 commit1
+
+branch3 commit2
+
+branch3 commit3
